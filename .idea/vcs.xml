@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Arcade/turtle_crossing" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Arcade/turtle_race" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turtle_crossing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turtle_race" vcs="Git" />
   </component>
 </project>
